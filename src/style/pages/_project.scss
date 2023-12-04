@@ -94,23 +94,6 @@
             font-size: .9rem;
           }
           
-          &:after {
-            content: "";
-            height: 340px;
-            width: 340px;
-            background: $color-3;
-            border-radius: 50%;
-            position: absolute;
-            top: -28px;
-            left: 70px;
-            z-index: -10;
-  
-            @media screen and (max-width: 810px){
-              height: 220px;
-              width: 220px;
-              left: -30px;
-            }
-          }
         }
         li {
           font-size: 1.5rem;
