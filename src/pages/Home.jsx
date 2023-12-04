@@ -55,7 +55,7 @@ const Home = () => {
                         </motion.h2>
                         <DynamicText />
                         <div className="pdf">
-                            <a href="./media/CV.pdf" target="_blank">Télécharger CV</a>
+                            <a href="/medias/CV.pdf" target="_blank">Télécharger CV</a>
                         </div>
 
                     </div>
